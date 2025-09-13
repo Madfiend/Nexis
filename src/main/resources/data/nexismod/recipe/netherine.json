@@ -1,0 +1,14 @@
+
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "nexismod:netherine_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "nexismod:netherine"
+  }
+}

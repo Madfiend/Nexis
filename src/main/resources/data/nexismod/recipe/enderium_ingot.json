@@ -1,0 +1,14 @@
+
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "misc",
+ "ingredients": [
+  {
+   "item": "nexismod:enderium_block"
+  }
+ ],
+ "result": {
+  "count": 9,
+  "id": "nexismod:enderium_ingot"
+ }
+}

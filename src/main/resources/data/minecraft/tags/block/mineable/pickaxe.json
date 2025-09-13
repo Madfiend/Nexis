@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "nexismod:enderium_ore",
+    "nexismod:enderium_deepslate_ore",
+    "nexismod:enderium_block",
+    "nexismod:netherine_ore",
+    "nexismod:netherine_block"
+  ]
+  }

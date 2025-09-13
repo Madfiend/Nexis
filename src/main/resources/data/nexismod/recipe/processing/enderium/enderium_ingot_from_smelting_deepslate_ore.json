@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredient": {
+    "item": "nexismod:enderium_deepslate_ore"
+  },
+  "result": {
+    "id": "nexismod:enderium_ingot"
+  }
+}
